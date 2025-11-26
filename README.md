@@ -23,7 +23,6 @@ CEIDF is a cross-chain intrusion detection framework for IoT environments that c
 - `results/` – Aggregated metrics, plots, and statistical summaries.
 - `scripts/` – Utility scripts for setup, running experiments, and evaluation.
 
-Adjust folder names to match your actual repo.
 
 ## Installation
 
