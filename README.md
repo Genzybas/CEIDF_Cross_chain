@@ -1,6 +1,6 @@
-# CEIDF_Cross_chain
-```markdown
 # CEIDF: Cross-Chain Energy-Aware IDS Framework
+```markdown
+
 
 CEIDF is a cross-chain intrusion detection framework for IoT environments that combines deep learning–based detection, model compression (pruning, quantization, distillation), and blockchain interoperability to achieve high accuracy with reduced energy consumption on resource-constrained devices.
 
@@ -105,7 +105,7 @@ After acceptance, the camera-ready paper will include:
 If you use this framework in your work, please cite the associated paper:
 
 ```
-@article{AUTHOR202XCEIDF,
+@article{AUTHOR2025CEIDF,
   title   = {Cross-Chain and Energy-Efficient Intrusion Detection for IoT Se-
 curity using Smart Contracts and Machine Learning},
   author  = {Bassey Samuel},
